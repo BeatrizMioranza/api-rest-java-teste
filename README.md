@@ -1,7 +1,5 @@
-# api-rest-java-teste 
+# API Rest - Java com Spring Boot
 
-#API Rest - Java com Spring Boot
- 
 Primeira vez desenvolvendo uma  uma API Rest utilizando Java com Spring Boot.  
 
 ## Componentes
@@ -12,4 +10,4 @@ Primeira vez desenvolvendo uma  uma API Rest utilizando Java com Spring Boot.
 * DbVizualizer
 * Postman
 
-Link do tutorial de apoio: https://youtu.be/0HKAqjiZveE 
+Link do tutorial de apoio: https://youtu.be/0HKAqjiZveE
